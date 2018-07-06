@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 # Folders
+data
+docs
 data/
 docs/
 .ipynb_checkpoints/
